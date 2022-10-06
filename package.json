@@ -1,11 +1,11 @@
 {
-  "name": "Swearkiller",
-  "version": "1.2.5",
+  "name": "saybyetoswear",
+  "version": "1.2.8",
   "description": "a good way for detector swear word from any place",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://iRobik@github.com/iRobik/cl-swearword-detector.git"
+    "url": "https://CodeFoxy-Github@github.com/CodeFoxy-Github/Swear-Detector.git"
   },
   "keywords": [
     "swearword",
