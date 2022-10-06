@@ -1,12 +1,8 @@
 {
-  "name": "cl-swearword-detector",
-  "version": "1.0.2",
-  "description": "CityLeeks swearword detector",
+  "name": "Swear-Detector",
+  "version": "1.2.5",
+  "description": "a good way for detector swear word from any place",
   "main": "index.js",
-  "scripts": {
-    "test": "mocha test",
-    "test-travis": "istanbul cover _mocha -- test -R spec"
-  },
   "repository": {
     "type": "git",
     "url": "https://iRobik@github.com/iRobik/cl-swearword-detector.git"
@@ -17,22 +13,12 @@
     "word",
     "swear",
     "swearing",
-    "curse",
-    "obscenity",
-    "damn",
-    "expletive",
-    "pejorative",
     "cussword"
   ],
-  "author": "Denis Gabidullin <d.s.gabidullin@norcity.ru>",
+  "author": "Ch Codefoxy <test.foxcat@gmail.com>",
   "license": "The MIT License (MIT)",
   "bugs": {
-    "url": "https://github.com/iRobik/cl-swearword-detector/issues"
+    "url": "https://github.com/CodeFoxy-Github/Swear-Detector/issues"
   },
-  "homepage": "https://github.com/iRobik/cl-swearword-detector",
-  "devDependencies": {
-    "mocha": "~2.4.5",
-    "istanbul": "0.3.5",
-    "coveralls": "^2.11.6"
-  }
+  "homepage": "https://github.com/CodeFoxy-Github/Swear-Detector"
 }
